@@ -51,6 +51,10 @@ public class UserRegistrationMain {
          * Check password contains atleast upper case or not
          */
         obj5.checkUpperCase(password);
+        /**UC7
+        * Check password has atleast one numeric number
+         */
+        obj5.checkNumericNumber(password);
 
 
     }
